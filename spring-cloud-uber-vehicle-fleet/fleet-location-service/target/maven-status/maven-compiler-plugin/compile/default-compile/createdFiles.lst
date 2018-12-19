@@ -1,0 +1,9 @@
+com/chaoyu/spring/uber/domain/UnitInfo.class
+com/chaoyu/spring/uber/domain/LocationRepository.class
+com/chaoyu/spring/uber/domain/Location$GpsStatus.class
+com/chaoyu/spring/uber/domain/UnitFault.class
+com/chaoyu/spring/uber/FleetLocationServiceApplication.class
+com/chaoyu/spring/uber/domain/Location.class
+com/chaoyu/spring/uber/domain/Location$VehicleMovementType.class
+com/chaoyu/spring/uber/domain/FleetBulkUploadController.class
+com/chaoyu/spring/uber/domain/FaultCode.class
