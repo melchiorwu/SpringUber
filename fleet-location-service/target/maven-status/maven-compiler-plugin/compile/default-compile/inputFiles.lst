@@ -1,0 +1,9 @@
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/domain/UnitInfo.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/service/LocationService.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/service/impl/LocationserviceImpl.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/FleetLocationServiceApplication.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/domain/LocationRepository.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/domain/FaultCode.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/rest/FleetBulkUploadRestController.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/domain/UnitFault.java
+/home/chaoyu/IdeaProjects/fleet-location-service/src/main/java/com/chaoyu/spring/uber/domain/Location.java
